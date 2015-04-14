@@ -6,7 +6,7 @@ import java.text.DecimalFormat;
 
 public class PosGUI extends JFrame implements ActionListener{
 	public static final long serialVersionUID = 1999;
- 
+  
 	Container c;
 
 	IceCreamMenuData viewUseMenuData;	// cached Data for display use
